@@ -1,0 +1,1 @@
+print("Hello, World! \n Let's go for olampics!")
